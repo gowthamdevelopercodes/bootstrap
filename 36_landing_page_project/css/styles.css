@@ -1,0 +1,117 @@
+body {
+    background: url('../images/landbg.jpg') no-repeat fixed;
+    background-size: cover;
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+}
+
+.idiv {
+    background-color: #000;
+    height: 300px;
+    width: 700px;
+    margin-top: 10%;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    padding: 50px;
+    font-family: 'Raleway', sans-serif;
+    opacity: 0.9;
+}
+
+/* @media(max-width:768px) {
+    .idiv {
+        background-color: #fff;
+        color: black;
+    }
+} */
+
+/* @media(min-width:768px) {
+    .idiv {
+        background-color: #fff;
+        color: black;
+    }
+} */
+
+/*  max width */
+
+/* @media(max-width:768px) { 
+    .idiv {
+        background: #fff;
+        color: black;
+    }
+}
+*/
+
+/*  Min Width */
+
+/* @media (min-width:1024px) {
+    .idiv {
+        background: blue;
+        color: #fff;
+    }
+} */
+
+
+
+
+
+/* @media(max-width:320px) {
+    .idiv {
+        background: red;
+        color: #fff;
+    }
+}
+
+
+@media(max-width:768px) {
+    .idiv {
+        background: blue;
+        color: #fff;
+    }
+}
+
+@media(max-width:1024px) {
+    .idiv {
+        background: green;
+        color: #fff;
+    }
+}
+
+@media(max-width:1440px) {
+    .idiv {
+        background: pink;
+        color: #fff;
+    }
+} */
+
+/* min width */
+
+
+@media(min-width:320px) {
+    .idiv {
+        background: red;
+        color: #fff;
+    }
+}
+
+
+@media(min-width:768px) {
+    .idiv {
+        background: blue;
+        color: #fff;
+    }
+}
+
+@media(min-width:1024px) {
+    .idiv {
+        background: green;
+        color: #fff;
+    }
+}
+
+@media(min-width:1440px) {
+    .idiv {
+        background: pink;
+        color: #fff;
+    }
+}

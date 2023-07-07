@@ -1,0 +1,19 @@
+body {
+    background: url('../images/landbg.jpg') no-repeat fixed;
+    background-size: cover;
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+}
+
+.idiv {
+    background-color: #000;
+    height: 300px;
+    width: 700px;
+    margin-top: 10%;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    padding: 50px;
+    font-family: 'Raleway', sans-serif;
+    opacity: 0.9;
+}
